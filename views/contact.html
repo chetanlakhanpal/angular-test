@@ -1,0 +1,50 @@
+<div class="container">
+
+	<div class="col-md-6">
+
+			<form action="" onsubmit="" method="POST" autocomplete="off" name="mainform">
+			<fieldset>
+			<legend><h2>Send Us a Message</h2></legend>
+
+		
+			<!-- NAME-->
+			  <input id="name" name="fieldFormName" type="text" placeholder="Name" class="form-control input-md" autofocus required>
+			    
+			<!-- SUBJECT-->
+			  <label class=" control-label" for="sub"></label>  
+			  <input id="sub" name="fieldSubject" type="text" placeholder="Subject" class="form-control input-md" required>
+			    
+
+			<!-- E_MAIL-->
+			  <label class=" control-label" for="email"></label>  
+			  <input id="email" name="fieldFormEmail" type="email" placeholder="E-Mail" class="form-control input-md" required>
+			   <span id="error_email" style="color:red"></span>  
+  
+			<!-- Mobile Number-->
+			  <label class=" control-label" for="textinput"></label>  
+			  <input  id="contact_num" name="phone" type="tel" pattern=".{10,10}" maxlength="10" required title="10 to 10 numbers" placeholder="Contact Number" class="form-control input-md">
+			 <span id="error_number" style="color:red"></span>  
+
+			<!-- MESSAGE -->
+			<div class="form-group">
+
+			  <label class=" control-label" for="textinput"></label>
+			    <textarea class="form-control" id="textinput_tf" name="message" placeholder="Message" required></textarea>
+
+			<!-- File Button --> 
+			<div class="form-group">
+			  <label class=" control-label" for="filebutton"></label>
+			    <input id="filebutton" name="attachment" type="file" size="60">
+
+			    <br>
+			<!-- Button -->
+			<div class="form-group">
+			  <label class=" control-label" for="singlebutton"></label>
+			    <button id="submitbutton" type="submit" name="Submit" value="Send" class="btn btn-primary" formtarget="_self">Submit</button>
+			    <button id="resetbutton" type="reset" name="Reset" value="Reset" class="btn btn-default">Reset</button>
+			</div>
+
+			</fieldset>
+			</form>
+		</div>
+</div>

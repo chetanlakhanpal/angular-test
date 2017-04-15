@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Auth",
+				"AuthCtrl"
+			],
+			[
+				"p",
+				"partials"
+			],
+			[
+				"get",
+				"getLinks"
+			],
+			[
+				"ali",
+				"aliases"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"time_",
+				"time_start"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"l",
+				"limit"
+			],
+			[
+				"water",
+				"water_type"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"sort",
+				"sortWaterType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"INsta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/angular/src/js/config/app.config.js",
+		"/var/www/html/angular/src/js/auth/auth.config.js",
+		"/var/www/html/angular/src/js/auth/auth.controller.js",
+		"/var/www/html/angular/src/js/auth/index.js",
+		"/var/www/html/angular/src/js/auth/auth.html",
+		"/var/www/html/angular/src/js/app.js",
+		"/var/www/html/angular/gulpfile.js",
+		"/var/www/html/angular/src/js/article/article.config.js",
+		"/var/www/html/angular/package.json",
+		"/var/www/html/dish/views/partials/header.html",
+		"/var/www/html/dish/views/partials/footer.html",
+		"/var/www/html/dish/js/app.js",
+		"/var/www/html/dish/index.html",
+		"/var/www/html/dish/css/style.css",
+		"/home/chetan/Downloads/dish/templates/partials/header.html",
+		"/home/chetan/Downloads/dish/index.html",
+		"/home/chetan/Downloads/dish/js/app.js",
+		"/home/chetan/Downloads/dish/templates/partials/footer.html",
+		"/home/chetan/Downloads/dish/templates/home.html",
+		"/var/www/html/Angular/service.php",
+		"/home/chetan/Desktop/Angular/app.js",
+		"/home/chetan/Desktop/Angular/index.html",
+		"/home/chetan/Desktop/mdl/styles.css",
+		"/home/chetan/Desktop/mdl/demo.html",
+		"/home/chetan/Desktop/mdl/index.html",
+		"/home/chetan/Desktop/web-starter-kit-0.6.5/gulpfile.babel.js",
+		"/home/chetan/Desktop/mdl-template-dashboard/index.html",
+		"/home/chetan/Desktop/arc/index.html",
+		"/home/chetan/Desktop/arc/css/built.css",
+		"/home/chetan/Desktop/arc/js/built.js",
+		"/home/chetan/Desktop/notewragler/app/js/app.js",
+		"/home/chetan/Desktop/notewragler/app/server/views/index.html",
+		"/home/chetan/Desktop/notewragler/node_modules/bower/lib/commands/register.js",
+		"/home/chetan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/chetan/Desktop/micro/index.php",
+		"/home/chetan/Desktop/notewragler/app/css/application.css.map",
+		"/home/chetan/Desktop/note/app/views/index.html",
+		"/home/chetan/Desktop/note/app.js",
+		"/home/chetan/Desktop/notewragler/app/js/routes.js",
+		"/home/chetan/Desktop/note/package.json",
+		"/home/chetan/Desktop/note/app/server/routes.js",
+		"/home/chetan/Desktop/notewragler/app/server/modules/routes.js",
+		"/var/www/html/test/test.php",
+		"/home/chetan/.aliases",
+		"/var/www/html/test/frequency_number.php",
+		"/var/www/html/test/problems.php",
+		"/var/www/html/test/string.php",
+		"/var/www/html/new_proj/Vagrantfile",
+		"/home/chetan/.bashrc",
+		"/var/www/html/p/SearchController.php",
+		"/var/www/html/p/searchdetails.blade.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/var/www/html/angular/src",
+			"/home/chetan/Desktop/note"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$ctrl",
+			"homeModule",
+			"export angular",
+			"ng-",
+			"footer",
+			"/home/chetan/Desktop/notewragler/app.js\n/home/chetan/Desktop/notewragler/database.sqlite\n/home/chetan/Desktop/notewragler/dbSeed.js\n/home/chetan/Desktop/notewragler/Gruntfile.js\nUser Notes",
+			"true",
+			"<br>",
+			"&nbsp;",
+			"count",
+			"waterTypeSummation",
+			"sortWaterType"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1187.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "/var/www/html/practice",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular-practice.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.",
+				"src/js/app.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"header.html",
+				"views/partials/header.html"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index.ht",
+				"app/server/views/index.html"
+			],
+			[
+				"regis",
+				"node_modules/bower/lib/commands/register.js"
+			],
+			[
+				"routes.js",
+				"notewragler/app/server/modules/routes.js"
+			],
+			[
+				"routes",
+				"notewragler/app/js/routes.js"
+			],
+			[
+				"fre",
+				"frequency_number.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
